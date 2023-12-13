@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 0px;
+    padding-top: 10px;
+    margin-left: 6vw;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../../assets/Montserrat-VariableFont_wght.ttf');
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: 200;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -8vh;
+}
+
+hr{
+    width: 93vw;
+    background-color: transparent;
+    height: 1px;
+    border-top: dashed;
+    
+    
+}
+
+#header {
+    background-color: #ffede1b8;
+    border-radius: 0px;
+}
